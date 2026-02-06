@@ -1,20 +1,10 @@
-# Cursor Clone (The Poor Man's Cursor) 🐢💻
+# Cursor Clone (Only HTML and CSS) 🐢💻
 
 ### Live Demo
 👉 https://cursor-uri3.vercel.app/
-
-### Current Status
-- Works (mostly)  
-- Looks... okay-ish?  
-- First time writing this many lines of code in one project  
-- Alignment? What alignment?  
-- Colors? I picked them with my heart (and zero design sense)
-### Known Issues
-- Things might be misaligned (welcome to my aesthetic)  
-- Colors may cause eye bleeding  
-- Mobile? What's that?  
-- If you zoom in/out the whole thing might cry  
-
-### Special Thanks
-- Chaiaurcode team for 1st time introducing me to this.
-- To my past self who wrote 10-line scripts and thought that was "a lot"  
+image for reference <br>
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/90ed1275-4a77-4575-aff9-689d0efbb1bf" /> <br>
+I have used HTML and CSS and deployed on versel 
+yes, it has a lot of problem with padding and margin and all other things and i accept it that I'm not that good in it but i will work on my skills and improve.
+<br>
+ 
